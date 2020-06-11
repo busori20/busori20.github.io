@@ -11,7 +11,7 @@ time.format = "d F Y"
 language = "en"
 
 ; Blog info
-blog.title = "HTMLy"
+blog.title = "Busori20"
 blog.tagline = "Just another HTMLy blog"
 blog.description = "Proudly powered by HTMLy, a databaseless blogging platform."
 blog.copyright = "(c) Your name."
